@@ -1,5 +1,5 @@
 # Machine Learning - Short Term Rental Rates
 
-This is a personal project to develop a linear regression model for predicting the expected daily rate of short term rentals in my area. The model was built with Python, SKlearn, and CSV data dumps from the website, AllTheRooms.com. 
+This project demonstrates a linear regression model for predicting the expected daily rate of short term rentals in my area. The daily rate prediction is valid on a month to month basis (e.g. December might have lower prices than June). The model was built with Python, SKlearn, and CSV data dumps from the website, AllTheRooms.com. 
 
 Note that AllTheRooms.com requires a subscription to download their data and therefore the legality of uploading the source data from this project is questionable. 
